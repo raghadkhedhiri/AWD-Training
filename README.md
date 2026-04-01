@@ -36,7 +36,7 @@ Pour valider l'**AA2**, nous avons découpé l'application en domaines métier a
 * **Notification Domain** (Microservice 4)
 * **Meeting Domain** (Microservice 5)
 
-* **Schéma de découpage :** [`domain-class-diagram`](https://github.com/badi3a/AWD-Training/blob/main/documentation/diag/domain-class-diagram.png)
+* **Schéma de découpage :** ![domain-class-diagram](https://github.com/badi3a/AWD-Training/blob/main/documentation/diag/domain-class-diagram.png)
 
 ---
 
@@ -50,7 +50,7 @@ L'architecture finale (Validation **AA8**) intègre l'ensemble des composants d'
 * **Message Broker :** Communication asynchrone (RabbitMQ).
 * **Identity Provider :** Sécurisation des accès (Keycloak).
 
-* **Schéma Global :** `[microservices-global-architecture`](https://github.com/badi3a/AWD-Training/blob/main/documentation/diag/microservices-global-architecture.png)
+* **Schéma Global :** ![microservices-global-architecture](https://github.com/badi3a/AWD-Training/blob/main/documentation/diag/microservices-global-architecture.png)
 
 ---
 
