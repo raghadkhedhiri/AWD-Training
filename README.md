@@ -26,7 +26,7 @@ Le projet s'appuie sur un système réel de gestion d'offres d'emploi.
 
 ### 1. Du Monolithe (Conceptuel) ...
 Initialement, toutes les entités (Candidats, Jobs, Candidatures, Meetings) partagent le même espace et la même base de données.
-* **Schéma :** [`class-diagram`](https://github.com/badi3a/AWD-Training/blob/main/documentation/diag/class-diagram.png)
+* **Schéma :** ![class-diagram](https://github.com/badi3a/AWD-Training/blob/main/documentation/diag/class-diagram.png)
 
 ### 2. ... Vers les Domaines Microservices (DDD)
 Pour valider l'**AA2**, nous avons découpé l'application en domaines métier autonomes (**Bounded Contexts**) :
